@@ -102,9 +102,11 @@ const Dashboard = () => {
             {/*  Third row with Line and Pie Chart*/}
             <div className="chart-row">
               <div className="chart">
+                <h3>Line Chart</h3>
                 <LineChart data={countryData.timeline} label="Total Cases Over Time" />
               </div>
               <div className="chart">
+                <h3 style={{marginLeft: '8rem'}}>Pie Chart</h3>
                 <PieChart data={pieChartData} />
               </div>
             </div>
