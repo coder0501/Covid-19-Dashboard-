@@ -1,4 +1,5 @@
 # Covid-19-Dashboard-
+![image](https://github.com/coder0501/Covid-19-Dashboard-/assets/82721930/0e8a3134-939f-46a1-92f2-081b92e07bdb)
 
 This repository contains the code for a COVID-19 Dashboard designed to visualize the spread of the virus globally with data on total cases, recoveries, and deaths. The dashboard is built using React.js and integrates various technologies such as Chart.js for graphical representations.
 
